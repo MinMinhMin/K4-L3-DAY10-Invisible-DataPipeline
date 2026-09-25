@@ -273,5 +273,5 @@ Repair không sửa trực tiếp từng ô corrupted và không xóa cảnh bá
 - [x] Quality/freshness conclusions khớp với `data/quality/`.
 - [x] Các đường dẫn báo cáo và artifact truy cập được.
 - [x] Đã tạo báo cáo vai trò riêng cho mỗi thành viên.
-- [ ] Mỗi thành viên đã tự đọc và xác nhận phần cam kết trong báo cáo cá nhân.
+- [x] Mỗi thành viên đã tự đọc và xác nhận phần cam kết trong báo cáo cá nhân.
 - [x] Không có `.env`, API key, token hoặc secret trong source, report, log hay ảnh.
